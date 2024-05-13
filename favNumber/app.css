@@ -1,0 +1,11 @@
+*{
+    width: 300px;
+}
+input{
+    width: 200px;
+}
+button{
+    border-radius: 5px;
+    width: 80px;
+    margin-top: 10px;
+}
